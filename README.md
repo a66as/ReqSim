@@ -6,5 +6,6 @@ Additional material for the book chapter in NLP4RE titled "Requirements Similari
 - ["STS_Similarity_results"](https://github.com/a66as/ReqSim/tree/main/STS_Similarity_results) contains the obtained results from running the similarity computation pipelines in the STS benchmark dataset.
 
 # Cite
+To come...
 
 **_This work has been supported by and received funding from the ITEA3 SmartDelta and the KDT AIDOaRT projects._**
