@@ -8,4 +8,5 @@ Additional material for the book chapter in NLP4RE titled "Requirements Similari
 # Cite
 To come...
 
+# Funding
 **_This work has been supported by and received funding from the ITEA3 SmartDelta and the KDT AIDOaRT projects._**
