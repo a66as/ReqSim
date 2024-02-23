@@ -1,4 +1,4 @@
-# ReqSim
+# ReqSim: Requirements Similarity and Retrieval
 Additional material for the book chapter in NLP4RE titled "Requirements Similarity and Retrieval".
 
 - The ["Graphs"](https://github.com/a66as/ReqSim/tree/main/Graphs) folder contains a list of figures and charts generated from industrial and public data.
