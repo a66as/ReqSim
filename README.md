@@ -5,8 +5,10 @@ Additional material for the book chapter in NLP4RE titled "Requirements Similari
 - The ["Notebooks"](https://github.com/a66as/ReqSim/tree/main/Notebooks) contains the Python Notebook that implements the various similarity computation pipelines. It also includes the R notebook used to generate the graphs.
 - ["STS_Similarity_results"](https://github.com/a66as/ReqSim/tree/main/STS_Similarity_results) contains the obtained results from running the similarity computation pipelines on the STS benchmark dataset.
 
-# Cite
+## Cite
 To come...
 
-# Funding
-**_This work has been supported by and received funding from the ITEA3 SmartDelta and the KDT AIDOaRT projects._**
+## Funding
+This work is partially funded by the [AIDOaRt (KDT)](https://sites.mdu.se/aidoart) and [SmartDelta (ITEA)](https://itea4.org/project/smartdelta.html) projects.
+<br><img src="https://smartdelta.org/wp-content/uploads/2021/12/1500x500_170x60.jpeg" width="100" >
+<img src="https://sites.mdu.se/images/18.53e5afc518094948a11572ed/1622585177018/Logga%20AIDOaRt.jpg" width="100" >
