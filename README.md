@@ -1,5 +1,5 @@
 # ReqSim: Requirements Similarity and Retrieval
-Additional material for the book chapter in NLP4RE titled "Requirements Similarity and Retrieval".
+Additional material for the book chapter in the book "NLP4RE" titled "Requirements Similarity and Retrieval".
 
 - The ["Graphs"](https://github.com/a66as/ReqSim/tree/main/Graphs) folder contains a list of figures and charts generated from industrial and public data.
 - The ["Notebooks"](https://github.com/a66as/ReqSim/tree/main/Notebooks) contains the Python Notebook that implements the various similarity computation pipelines. It also includes the R notebook used to generate the graphs.
